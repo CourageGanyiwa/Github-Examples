@@ -7,9 +7,4 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Echo current time
-<<<<<<< HEAD
-        run: echo "Your current server time is $(date)"
-=======
         run: echo "your current server time is $(date)"
->>>>>>> 585bc76cb821cc33552ad1fb26b6e0fad8ea4726
-
